@@ -1,5 +1,5 @@
-#' Title
-#'
+#' Notiemand
+#' @description creates fake people
 #' @return
 #' @export
 #'
